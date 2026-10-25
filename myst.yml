@@ -36,6 +36,7 @@ project:
             - file: content/115.ipynb
             - file: content/116.ipynb
             - file: content/116b.ipynb
+            - file: content/116c.ipynb
     - file: content/bloque2.ipynb
       children:
         - file: content/300-tema3.ipynb
